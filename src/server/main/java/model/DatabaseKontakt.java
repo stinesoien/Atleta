@@ -1,4 +1,4 @@
-/**
+package model; /**
  * Created by Stine on 25.09.2017.
  */
 /*
